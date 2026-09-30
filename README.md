@@ -41,10 +41,10 @@ I'm a student of **Systems Analysis and Development** with a passion for softwar
 
 **Hands-on work experience with:**
 
-| ----OS----|
+| OS |    |
 |----|----|
 | 🍎 macOS | 🐧 Arch Linux |
-| 🐧 Manjaro | 🌿 Linux Mint |
+| 🟩 Manjaro | 🌿 Linux Mint |
 | 🌀 Debian | 🟠 Ubuntu |
 | 😈 FreeBSD | |Fedora🎩|
 
