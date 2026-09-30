@@ -17,6 +17,7 @@ I'm a student of **Systems Analysis and Development** with a passion for softwar
 ## 🛠️ Tech Stack
 
 ### 💬 Languages
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img width="12" />
@@ -26,7 +27,9 @@ I'm a student of **Systems Analysis and Development** with a passion for softwar
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
 </div>
+
 ### 🌐 Web
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
@@ -34,16 +37,19 @@ I'm a student of **Systems Analysis and Development** with a passion for softwar
 </div>
 
 ### 🗄️ Databases
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
 </div>
 
 ### 🔧 Tools & Version Control
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
 </div>
+
 ---
 
 ## 🖥️ Operating Systems
@@ -71,6 +77,9 @@ I'm a student of **Systems Analysis and Development** with a passion for softwar
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/freebsd/freebsd-original.svg" height="40" alt="freebsd logo" />
 </div>
+
+---
+
 ## 🎯 Currently
 
 - 📚 Studying Systems Analysis and Development
@@ -84,4 +93,3 @@ I'm a student of **Systems Analysis and Development** with a passion for softwar
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mileikowski&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
-
