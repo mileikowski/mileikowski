@@ -51,7 +51,7 @@
 
 <h2 align="center">🖥️ Operating Systems</h2>
 
-<h3 align="center">⭐ Main OS</h3>
+<h3 align="center">🪟 Main OS</h3>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="64" alt="Windows 10" />
