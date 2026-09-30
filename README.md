@@ -41,12 +41,12 @@ I'm a student of **Systems Analysis and Development** with a passion for softwar
 
 **Hands-on work experience with:**
 
-| OS | |
+| ----OS----|
 |----|----|
 | 🍎 macOS | 🐧 Arch Linux |
 | 🐧 Manjaro | 🌿 Linux Mint |
 | 🌀 Debian | 🟠 Ubuntu |
-| 😈 FreeBSD | |
+| 😈 FreeBSD | |Fedora🎩|
 
 ---
 
@@ -61,6 +61,6 @@ I'm a student of **Systems Analysis and Development** with a passion for softwar
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mileikowski&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
 
