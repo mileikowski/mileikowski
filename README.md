@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mileikowski/mileikowski/main/assets/animated.gif" width="100%" alt="Animated banner" />
+</p>
+
 <h1 align="center">Hi there, I'm Murilo Mileikowsky 👋</h1>
 
 <p align="center">
